@@ -42,11 +42,7 @@ This project demonstrates semantic image segmentation using a custom architectur
 - The MobileNetV2 architecture is based on the original paper by Sandler et al. [https://arxiv.org/abs/1801.04381].
 - U-Net architecture reference: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation."
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
-
-Feel free to reach out if you have any questions or suggestions!
 
 
 
